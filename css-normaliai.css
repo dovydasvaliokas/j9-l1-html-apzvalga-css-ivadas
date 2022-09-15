@@ -1,0 +1,42 @@
+p {
+    font-size: 18px;
+}
+
+.raudona {
+    background-color: rgb(255, 0, 0);
+}
+
+.melynas-remelis {
+  /*  border: 1px solid blue; */
+    border-width: 3px;
+    border-style: solid;
+    border-color: blue;
+
+    /*  KOMENTARAS  */
+}
+
+#pastraipa1 {
+    padding: 10px;
+    margin: 30px;
+}
+
+
+#pastraipa2 {
+    margin: 40px 10px 60px 17px;
+    padding: 10px 60px 15px 5px;
+}
+
+#pastraipa3 {
+    margin-right: 40px;
+    margin-left: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: 5px dashed red;
+    border-right: 3px dotted green;
+    border-bottom: 7px ridge rgb(29, 213, 146);
+    border-left: 6px inset tomato;
+
+
+}
